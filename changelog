@@ -1,3 +1,6 @@
 2020-11-12
 * Fixed skill checkboxes to change duplicate names.
 * Calcutate stat mods from stat scores.
+
+2020-12-16
+* Removed extra checkboxes that act like sleight of hand in place of acrobatics.
